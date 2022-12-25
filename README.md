@@ -21,6 +21,7 @@ apt install qemu-guest-agent
 systemctl enable qemu-guest-agent
 
 และทำการตั้งค่าที่ option ให้เปิดใช้งานตัว Qemu guest agent  
+
 ![image](https://user-images.githubusercontent.com/117635686/209475912-622dbea0-a7ac-4d9a-8972-1d5a6659efa1.png)
 
 reboot เพื่อรีระบบ clone from template 2 vm
@@ -28,6 +29,7 @@ reboot เพื่อรีระบบ clone from template 2 vm
 Click ที่ vm(master) แล้วไป Convert to template
 
 หลังจาก vm(master)กลายเป็นtemplate ให้คลิกที่ vm แล้วเลือก Clone
+
 ![image](https://user-images.githubusercontent.com/117635686/209476157-66bd84db-1209-438b-9198-1caa97bec915.png)
 
 ทำการsetระบบ
