@@ -1,4 +1,5 @@
 # SPCN-011
+# ทำการสร้าง master vm
 1.เลือก Creat Virtual Machine
 
 1.1 ตั้งค่า General
