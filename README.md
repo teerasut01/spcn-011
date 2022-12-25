@@ -1,5 +1,5 @@
 # SPCN-011
-- ทำการสร้าง master vm แล้วทำการ set ค่าต่างๆ (ubuntu-22.04) -
+- ทำการสร้าง master vm แล้วทำการ set ค่าต่างๆ (ubuntu-22.04) 
 
 1.เลือก Creat Virtual Machine
 
