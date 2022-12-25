@@ -6,6 +6,7 @@
 set update time ด้วยคำสั่ง
 
 sudo timedatectl set-timezone Asia/Bangkok
+
 date
 
 set qemu-guest-agent เพื่อเปิดใช้งาน ip qemu ด้วยคำสั่ง
